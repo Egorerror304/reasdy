@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Примеры моих работ.</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мой самые лучшие работы на Графическом дизайне</h1>
+     <div class="gallery">
+                <img src="https://learn.algoritmika.org/uploads/student/2754465/64b795287cf80.png"/>
+                <img src="https://learn.algoritmika.org/uploads/student/2754465/64ae5f2f2f7fe.png"/>
+                <img src="https://learn.algoritmika.org/uploads/student/2754465/6490089fb10b4.jpg"/>
+                <img src="https://learn.algoritmika.org/uploads/student/2754465/649947740d34e.jpg"/>
+            </div>
+            <h2>Какие программы мы используем на Графическом дизайне:</h2>
+            <ul>
+              <li><mark>Gimp-оброботка фото.</mark></li>
+                <li><mark>Wick Editor-создание анимации</mark></li>
+                  <li><mark>Sribus-верстка буклетов и брошюр и др.</mark></li>
+                    <li><mark>Inskape-создание артов и пиксель артов</mark></li>
+                      <li><mark>Tinkercad-создание 3d моделей.</mark></li>
+                      </ul>
+            <h3>Мои любимие программы:</h3>
+            <p class="egorr">Gimp-потому что много функций.<br>
+               Scribus: люблю создовать буклеты</p>         
+
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
