@@ -1,5 +1,5 @@
-body {
-    background-image:linear-gradient(grey,white);
+bodbody {
+    background-image:linear-gradient(#3914FA,yellow);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 } 
 h1 {
@@ -31,9 +31,6 @@ h1 {
 }
 p4 {
 text-align: center;
-}
-footer{
-
 } 
 .gallery {
     display: flex;
@@ -47,7 +44,6 @@ mark{
 ul{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 34px;
-    .egor01{
     width: 401px;
     height: 200px;
 }
@@ -56,4 +52,10 @@ ul{
     height:200px;
 
 }
+.link-info{
+    background-image: linear-gradient(orange,yellow)
 
+}
+.link-header{
+background-image: linear-gradient(orange,yellow)
+}
